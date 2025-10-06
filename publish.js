@@ -54,7 +54,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://hlcgw11.github.io',
+	'https://18heiliao.github.io',
         'https://hlcgw.netlify.app/',
         'https://hlcgw11.pages.dev/',
 ];
