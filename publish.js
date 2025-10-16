@@ -33,18 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'hlcgwcom@gmail.com'
+    'sqhub3678@gmail.com'
 ];
 
 var urls=[
-        'hzuyrbnu.cc/',
-	    'sziyvwbu.cc/',
-        'johgawhd.com/',
-        'patqppx.xyz/',
+        'mxjlhqq.cc/',
+
 
 ];
                                                                                                                   
-var JumpPage="https://hlcgw82.com";
+var JumpPage="https://18heiliao.net";
 
 var newestUrls = [];
 
@@ -55,8 +53,8 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://18heiliao.github.io',
-        'https://hlcgw.netlify.app/',
-        'https://hlcgw11.pages.dev/',
+        'https://18heiliao.netlify.app',
+        'https://18heiliao.pages.dev',
 ];
 var foreverUrls = [
     'https://18heiliao.net',JumpPage
