@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+        'vusaesy.cc/',
         'vukisar.cc/',
         'mxjlhqq.cc/',
-
 ];
                                                                                                                   
 var JumpPage="https://3heiliao.com";
