@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+        'jmmiqozz.cc/',
         'xqgsktw.xyz/',
         'efxkuxus.xyz/',
-        'uknlbgwj.cc/',
 ];
                                                                                                                   
-var JumpPage="https://12heiliao.com";
+var JumpPage="https://13heiliao.com";
 
 var newestUrls = [];
 
