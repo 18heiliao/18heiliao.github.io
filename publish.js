@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+        'wcntvvn.com/',
         'keagszic.xyz/',
         'kycnnsjc.cc/',
-        'xciyjirh.cc/',
 ];
                                                                                                                   
 var JumpPage="https://20heiliao.com";
