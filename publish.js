@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+        'efkomazy.cc/',
         'xqgsktw.xyz/',
         'csnelfj.cc/',
-        'deabpqvz.xyz/',
 ];
                                                                                                                   
 var JumpPage="https://25heiliao.com";
