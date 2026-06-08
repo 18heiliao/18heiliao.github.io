@@ -53,8 +53,6 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://18heiliao.github.io',
-        'https://18heiliao.netlify.app',
-        'https://18heiliao.pages.dev',
 ];
 var foreverUrls = [
     'https://18heiliao.net',JumpPage
@@ -144,7 +142,7 @@ window.onload = function () {
     mainElem.appendChild(mailFieldElem);
 
     // forever urls
-    var foreverFieldElem = createFieldElem({title: '永久地址', items: foreverUrls});
+    var foreverFieldElem = createFieldElem({title: '最新入口', items: foreverUrls});
     mainElem.appendChild(foreverFieldElem);
 
     // Description
