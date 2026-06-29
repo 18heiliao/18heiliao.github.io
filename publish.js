@@ -41,7 +41,7 @@ var urls=[
         'kcsvwympc.cc/',
 ];
                                                                                                                   
-var JumpPage="https://34heiliao.com";
+var JumpPage="https://35heiliao.com";
 
 var newestUrls = [];
 
