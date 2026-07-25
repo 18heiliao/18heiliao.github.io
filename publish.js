@@ -40,7 +40,7 @@ var urls=[
         'aflxrqzv.com/',
 ];
                                                                                                                   
-var JumpPage="https://36heiliao.com";
+var JumpPage="https://18hl1.com";
 
 var newestUrls = [];
 
