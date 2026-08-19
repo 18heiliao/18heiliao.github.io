@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'aflxrqzv.com/',
+        'hfsxafkp.com/',
 ];
                                                                                                                   
-var JumpPage="https://18hl1.com";
+var JumpPage="https://18hl4.com";
 
 var newestUrls = [];
 
